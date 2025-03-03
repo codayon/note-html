@@ -1,4 +1,4 @@
-| tags           |                                  what it does                                   |
+| tag           |                                  what it does                                   |
 | -------------- | :-----------------------------------------------------------------------------: |
 | `<!--...-->`   |                                Defines a comment                                |
 | `<!DOCTYPE> `  |                            Defines the document type                            |
